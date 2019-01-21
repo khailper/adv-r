@@ -76,7 +76,7 @@ There are three conditions that you can signal in code: errors, warnings, and me
 * Errors are the most severe; they indicate that there is no way for a function 
   to continue and execution must stop. 
 
-* Warnings fall somewhat in between errors and warnings, and typically indicate 
+* Warnings fall somewhat in between errors and messages, and typically indicate 
   that something has gone wrong but the function has been able to at least 
   partially recover. 
   
