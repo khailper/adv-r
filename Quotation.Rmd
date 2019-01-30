@@ -818,7 +818,7 @@ One way to think about these problems is to draw explicit parallels to quasiquot
 
 <!-- GVW: I think `:=` needs/deserves more than a fly-by in a bullet point... -->
 
-Base R takes a different approach, which we'll come back to Section \@ref{do-call}.
+Base R takes a different approach, which we'll come back to Section \@ref(do-call).
 
 We say functions that support these tools, without quoting arguments, have __tidy dots__[^tidy-dots]. To gain tidy dots behaviour in your own function, all you need to do is use `list2()`.
 
